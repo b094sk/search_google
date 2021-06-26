@@ -115,7 +115,7 @@ class _MyAppState extends State<MyApp> {
               margin: const EdgeInsets.only(top: 30.0,left:10.0),
               child:
               Text(
-                'In Apps',
+                'youtube.com/bappasaikh',
                 style: TextStyle(fontSize: 25),
               ) ,
             ),
